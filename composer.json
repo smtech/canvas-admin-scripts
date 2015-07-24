@@ -1,6 +1,7 @@
 {
     "name": "smtech/smcanvas-scripts",
     "description": "A motley collection of management scripts for Instructure Canvas",
+    "license": "GPL-3.0",
     "authors": [
         {
             "name": "Seth Battis",
